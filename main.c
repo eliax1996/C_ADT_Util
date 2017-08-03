@@ -9,6 +9,7 @@
 #include <stdio.h>
 #include "Item.h"
 #include "List.h"
+#include "Albero.h"
 
 int main(int argc, const char * argv[]) {
     
