@@ -1,6 +1,6 @@
 //
 //  main.c
-//  ADT_APA
+//  ADT C
 //
 //  Created by Elia Migliore on 03/08/17.
 //  Copyright © 2017 Elia Migliore. All rights reserved.
@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World! My first try at github\n");
+    printf("Hello, World!\n");
     return 0;
 }
