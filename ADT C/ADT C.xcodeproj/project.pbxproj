@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C37450611F338E600066D1D3 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C37450601F338E600066D1D3 /* main.c */; };
-		C374506E1F338E710066D1D3 /* Item.c in Sources */ = {isa = PBXBuildFile; fileRef = C37450671F338E710066D1D3 /* Item.c */; };
 		C374506F1F338E710066D1D3 /* List.c in Sources */ = {isa = PBXBuildFile; fileRef = C374506A1F338E710066D1D3 /* List.c */; };
 		C37450701F338E710066D1D3 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C374506C1F338E710066D1D3 /* main.c */; };
 		C37450711F338E710066D1D3 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C374506D1F338E710066D1D3 /* README.md */; };
@@ -30,7 +29,6 @@
 /* Begin PBXFileReference section */
 		C374505D1F338E600066D1D3 /* ADT C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ADT C"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C37450601F338E600066D1D3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		C37450671F338E710066D1D3 /* Item.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Item.c; path = ../../Item.c; sourceTree = "<group>"; };
 		C37450681F338E710066D1D3 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Item.h; path = ../../Item.h; sourceTree = "<group>"; };
 		C37450691F338E710066D1D3 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../LICENSE; sourceTree = "<group>"; };
 		C374506A1F338E710066D1D3 /* List.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = List.c; path = ../../List.c; sourceTree = "<group>"; };
@@ -73,7 +71,6 @@
 			children = (
 				C37450721F338F3B0066D1D3 /* Albero.c */,
 				C37450731F338F3B0066D1D3 /* Albero.h */,
-				C37450671F338E710066D1D3 /* Item.c */,
 				C37450681F338E710066D1D3 /* Item.h */,
 				C37450691F338E710066D1D3 /* LICENSE */,
 				C374506A1F338E710066D1D3 /* List.c */,
@@ -144,7 +141,6 @@
 			files = (
 				C37450741F338F3B0066D1D3 /* Albero.c in Sources */,
 				C37450701F338E710066D1D3 /* main.c in Sources */,
-				C374506E1F338E710066D1D3 /* Item.c in Sources */,
 				C37450711F338E710066D1D3 /* README.md in Sources */,
 				C374506F1F338E710066D1D3 /* List.c in Sources */,
 				C37450611F338E600066D1D3 /* main.c in Sources */,
