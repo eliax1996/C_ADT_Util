@@ -12,6 +12,7 @@
 		C374506F1F338E710066D1D3 /* List.c in Sources */ = {isa = PBXBuildFile; fileRef = C374506A1F338E710066D1D3 /* List.c */; };
 		C37450701F338E710066D1D3 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C374506C1F338E710066D1D3 /* main.c */; };
 		C37450711F338E710066D1D3 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C374506D1F338E710066D1D3 /* README.md */; };
+		C37450741F338F3B0066D1D3 /* Albero.c in Sources */ = {isa = PBXBuildFile; fileRef = C37450721F338F3B0066D1D3 /* Albero.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +37,8 @@
 		C374506B1F338E710066D1D3 /* List.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = List.h; path = ../../List.h; sourceTree = "<group>"; };
 		C374506C1F338E710066D1D3 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = main.c; path = ../../main.c; sourceTree = "<group>"; };
 		C374506D1F338E710066D1D3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
+		C37450721F338F3B0066D1D3 /* Albero.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Albero.c; path = "../../../../../Desktop/albero c/Albero.c"; sourceTree = "<group>"; };
+		C37450731F338F3B0066D1D3 /* Albero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Albero.h; path = "../../../../../Desktop/albero c/Albero.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 		C374505F1F338E600066D1D3 /* ADT C */ = {
 			isa = PBXGroup;
 			children = (
+				C37450721F338F3B0066D1D3 /* Albero.c */,
+				C37450731F338F3B0066D1D3 /* Albero.h */,
 				C37450671F338E710066D1D3 /* Item.c */,
 				C37450681F338E710066D1D3 /* Item.h */,
 				C37450691F338E710066D1D3 /* LICENSE */,
@@ -137,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C37450741F338F3B0066D1D3 /* Albero.c in Sources */,
 				C37450701F338E710066D1D3 /* main.c in Sources */,
 				C374506E1F338E710066D1D3 /* Item.c in Sources */,
 				C37450711F338E710066D1D3 /* README.md in Sources */,
