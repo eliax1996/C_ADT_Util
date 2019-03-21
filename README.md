@@ -75,4 +75,22 @@ user
 > uses the system
 > can include different user profiles
 
+how to design contex diagram? Astauml or code
+
+#### CONTEXT DIAGRAM EXAMPLE
+´´´plantuml
+left to right direction
+skinparam packageStyle rectangle
+actor Cashier
+actor Product
+actor "credit card system" as ccs
+actor "inventory and catalogue system" as ics
+rectancle system {
+    Cashier -- (Pos System)
+    Product -- (Pos System)
+    (Pos System) -- ccs
+    (Pos System) -- ics
+}
+´´´
+
 
